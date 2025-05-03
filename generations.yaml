@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation (F87)"
+    start_year: 2016
+    end_year: 2021
+    description: "The original BMW M2 built upon the legacy of the 1M Coupe, offering M performance in a compact package. Based on the F22 2 Series platform but substantially modified, it featured wider fenders, M-specific suspension, and an enhanced version of the N55 3.0L turbocharged inline-six engine producing 365 HP (370 HP in European spec). Transmission options included a six-speed manual or seven-speed dual-clutch automatic. The M2 was praised for its analog driving feel and compact dimensions reminiscent of earlier M cars. A significant update came with the 2019 M2 Competition, which replaced the N55 engine with a detuned version of the S55 twin-turbocharged engine from the M3/M4, producing 405 HP. The Competition also received upgraded cooling, brakes, and a carbon fiber front strut brace. The limited-production M2 CS offered further enhancements with 450 HP, carbon fiber components, and adaptive suspension."
+
+  - name: "Second Generation (G87)"
+    start_year: 2022
+    end_year: null
+    description: "The current G87 M2 is based on a shortened version of the G42 2 Series platform but shares significant components with the G80 M3/G82 M4. Visually, it features a distinctive design with a more angular appearance, squared-off kidney grilles, and aggressive proportions. Power comes from the S58 3.0L twin-turbocharged inline-six engine producing 453 HP, paired with either a six-speed manual or eight-speed automatic transmission. Despite being larger and heavier than its predecessor, the G87 M2 delivers impressive performance with 0-60 mph acceleration in approximately 3.9 seconds. Inside, it features BMW's curved display combining digital instruments and infotainment, alongside traditional M elements like sport seats and unique trim options. Throughout both generations, the M2 has maintained its position as the most driver-focused model in BMW's M lineup, emphasizing handling precision and engagement in a relatively compact package."
