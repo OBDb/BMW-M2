@@ -12,6 +12,6 @@ test_cases:
     BMW_ODO_2: 18689
 - response: |-
     640F110076217000000
-    640F12149B5FFFFFFFF
+    640F12149F1FFFFFFFF
   expected_values:
-    BMW_ODO_2: 18869
+    BMW_ODO_2: 18929
