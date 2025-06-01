@@ -4,13 +4,11 @@ This repository contains signal set configurations for the BMW M2, organized by 
 
 ## Generations
 
-The BMW M2 has gone through three main generations, each representing significant evolution in performance and technology:
+The BMW M2 has gone through two main generations, representing BMW's entry-level M performance car based on the 2 Series platform:
 
-- **First Generation F87 (2016-2020)**: The original BMW M2 was introduced as a compact high-performance coupe based on the 2 Series platform. It featured a twin-turbocharged 3.0L inline-6 engine (N55) producing 365 hp in the standard model, with the M2 Competition (2018-2020) receiving the more powerful S55 engine from the M3/M4, producing 405 hp. Known for its excellent balance, rear-wheel drive configuration, and pure driving experience, the F87 established the M2 as a spiritual successor to the classic BMW M3 E30.
+- **First Generation F87 (2016-2021)**: The original M2 launched in 2016 as BMW's entry-level M car, replacing the rare 1M Coupe. Initially powered by a turbocharged 3.0L N55 inline-six producing 365 hp, the first generation was built on the F87 chassis and featured rear-wheel drive configuration. The M2 Competition was introduced in 2018 as a mid-cycle refresh, replacing the standard M2 with the S55 twin-turbocharged engine from the M3/M4, producing 405 hp. The limited-run M2 CS was introduced in 2020 as the final and most hardcore variant, featuring 444 hp and winning the Evo Car of the Year 2020 award.
 
-- **Second Generation G87 (2021-present)**: The current generation M2 represents a complete redesign with significantly more aggressive styling and enhanced performance. It features a twin-turbocharged 3.0L inline-6 engine (S58) producing 453 hp, shared with the larger M3 and M4 models. Key improvements include updated chassis dynamics, modern interior technology, and enhanced aerodynamics while maintaining the rear-wheel drive layout that defines the M2 character.
-
-- **Third Generation (Future)**: While not yet officially announced, BMW typically follows a 6-8 year development cycle for M models, suggesting a next-generation M2 may arrive in the late 2020s with potential electrification and further performance enhancements.
+- **Second Generation G87 (2023-present)**: Introduced in 2023, the second-generation M2 is built on the CLAR platform shared with the G80 M3 and G82 M4. It features a larger wheelbase (2.1 inches longer) and overall dimensions while maintaining the rear-wheel drive philosophy. Powered by the twin-turbocharged 3.0L S58 inline-six engine producing 453 hp initially, it was updated for 2025 with increased power to 473 hp and enhanced torque output. The second generation maintains the availability of both 6-speed manual and 8-speed automatic transmissions, continuing BMW's commitment to enthusiast driving.
 
 ## Contributing
 
