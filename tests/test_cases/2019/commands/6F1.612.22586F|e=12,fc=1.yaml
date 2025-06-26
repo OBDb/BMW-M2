@@ -1,14 +1,14 @@
 command_id: 6F1.612.22586F|e=12,fc=1
 test_cases:
-- response: 612F10562586F0423
-  expected_values:
+- expected_values:
     BMW_EOP: 4
-- response: 612F10562586F09FF
-  expected_values:
+  response: 612F10562586F0423
+- expected_values:
     BMW_EOP: 9
-- response: 612F10562586F0E06
-  expected_values:
+  response: 612F10562586F09FF
+- expected_values:
     BMW_EOP: 14
-- response: 612F10562586F1362
-  expected_values:
+  response: 612F10562586F0E06
+- expected_values:
     BMW_EOP: 19
+  response: 612F10562586F1362
