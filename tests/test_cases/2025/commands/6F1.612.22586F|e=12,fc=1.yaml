@@ -1,0 +1,32 @@
+command_id: 6F1.612.22586F|e=12,fc=1
+test_cases:
+- expected_values:
+    BMW_EOP: 4
+  response: 612F10562586F0410
+- expected_values:
+    BMW_EOP: 11
+  response: 612F10562586F0B4B
+- expected_values:
+    BMW_EOP: 11
+  response: 612F10562586F0B5B
+- expected_values:
+    BMW_EOP: 11
+  response: 612F10562586F0BEF
+- expected_values:
+    BMW_EOP: 12
+  response: 612F10562586F0C47
+- expected_values:
+    BMW_EOP: 13
+  response: 612F10562586F0DF2
+- expected_values:
+    BMW_EOP: 15
+  response: 612F10562586F0F2C
+- expected_values:
+    BMW_EOP: 15
+  response: 612F10562586F0F43
+- expected_values:
+    BMW_EOP: 15
+  response: 612F10562586F0F57
+- expected_values:
+    BMW_EOP: 15
+  response: 612F10562586F0FEE
