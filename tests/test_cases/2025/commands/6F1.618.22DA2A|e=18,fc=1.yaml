@@ -6,3 +6,27 @@ test_cases:
   response: |-
     618F1100762DA2A0000
     618F1210000FFFFFFFF
+- expected_values:
+    BMW_TQ_CNVRT_RPM: 728
+    BMW_TRANS_SHAFT_RPM: 0
+  response: |-
+    618F1100762DA2A02D8
+    618F1210000FFFFFFFF
+- expected_values:
+    BMW_TQ_CNVRT_RPM: 736
+    BMW_TRANS_SHAFT_RPM: 0
+  response: |-
+    618F1100762DA2A02E0
+    618F1210000FFFFFFFF
+- expected_values:
+    BMW_TQ_CNVRT_RPM: 890
+    BMW_TRANS_SHAFT_RPM: 0
+  response: |-
+    618F1100762DA2A037A
+    618F1210000FFFFFFFF
+- expected_values:
+    BMW_TQ_CNVRT_RPM: 1675
+    BMW_TRANS_SHAFT_RPM: 973
+  response: |-
+    618F1100762DA2A068B
+    618F12103CDFFFFFFFF
