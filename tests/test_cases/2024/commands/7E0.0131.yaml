@@ -10,3 +10,8 @@ test_cases:
   response: |-
     > 7DF.0131
     7E80441310792
+- expected_values:
+    CLR_DIST: 2068
+  response: |-
+    > 7DF.0131
+    7E80441310814
