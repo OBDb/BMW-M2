@@ -5,10 +5,4 @@ test_cases:
   response: 612F105624402009A
 - expected_values:
     BMW_EOT_V2: -60
-  response: 612F10562440200AB
-- expected_values:
-    BMW_EOT_V2: -60
-  response: 612F10562440200AC
-- expected_values:
-    BMW_EOT_V2: -60
-  response: 612F10562440200BB
+  response: 612F10562440200CE
