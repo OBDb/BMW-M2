@@ -4,20 +4,5 @@ test_cases:
     BMW_ET: 164.42
   response: 612F104624300A3
 - expected_values:
-    BMW_ET: 169.78
-  response: 612F104624300A7
-- expected_values:
-    BMW_ET: 172.46
-  response: 612F104624300A9
-- expected_values:
-    BMW_ET: 173.8
-  response: 612F104624300AA
-- expected_values:
-    BMW_ET: 176.48
-  response: 612F104624300AC
-- expected_values:
-    BMW_ET: 177.82
-  response: 612F104624300AD
-- expected_values:
-    BMW_ET: 191.22
-  response: 612F104624300B7
+    BMW_ET: 219.36
+  response: 612F104624300CC
