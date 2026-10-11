@@ -1,8 +1,8 @@
-command_id: 6F1.612.224300|e=12,fc=1
+command_id: 6F1.612.224300|e=12,fc=1,f=-2018
 test_cases:
 - expected_values:
-    BMW_ET: 136.28
+    M2_ET_8: 58.5
   response: 612F1046243008E
 - expected_values:
-    BMW_ET: 219.36
+    M2_ET_8: 105
   response: 612F104624300CC
