@@ -1,4 +1,4 @@
-command_id: 6F1.660.22D111|e=60,fc=1
+command_id: 6F1.660.22D111|e=60,fc=1,f=2028-;-2022
 test_cases:
 - expected_values:
     M2_AUX_PWR: 0
